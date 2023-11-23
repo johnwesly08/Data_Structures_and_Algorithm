@@ -21,4 +21,47 @@ What are the types of DSA available?
                 This type of Data Structures holds the data which are not arranged in sequential order. We use this data struture type to handle data which is in complex relationships. Examples of Non-Linear data structures includes 1. Trees, 2. Graphs, 3. Heaps, 4. Hash Tables, 5. Trie
 
     When it comes to Algorithm, it has severals kinds namely, 
-        1. 
+        1. Search Algorithm: 
+            We have 2 kinds of Searching Algorithm namely,
+            1. Linear Search: 
+                In this kind of searching, the searching process
+
+
+
+
+
+What is Binary Search tree? 
+    A binary search tree is a type of Non-linear Data Structure, which is designed by the heirarchical structure, which is basically a distributed branch from two nodes, namely left node and right node. 
+    The branches and the values of the left node will always be smaller than the branches and the values of the right node. 
+
+
+    Based on this, there are several operations performed on this tree data structure. One of such concepts are 
+        1. Traversal: 
+            This process basically runs through the whole data list available, which means visiting of every element of node in the data structure, examining in the order. 
+
+            Types of Traversal:
+            1. In-order Traversal: 
+                LT - RO - RT
+                1    2    3
+
+                Ascending order
+
+            2. Pre-order Traversal: 
+                RO - LT - RT
+                1    2    3
+
+                Prefix order
+
+            3. Post- order Traversal:
+                LT - RT - RO
+                1    2    3
+
+                Post order
+
+
+            
+
+
+
+
+
