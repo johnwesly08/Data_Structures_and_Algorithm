@@ -58,10 +58,13 @@ What is Binary Search tree?
 
                 Post order
 
-
+Encapsulation: 
+    This basically works on the concept of class and methods. Basically, this will wrap the data in the class and ensures Data integrity. 
             
+Inheritance: 
+    This allows the class to inherit the properties and the behaviours of another class like a parent -> child heirarchical class structure.
+    This has 2 types  
 
-
-
-
+Polymorphism: 
+    This 
 
